@@ -10,7 +10,7 @@
 | 항목 | 선택 | 비고 |
 |------|------|------|
 | UI 프레임워크 | SwiftUI | iOS 네이티브 |
-| 최소 지원 | iOS 16+ | SwiftData 요구 |
+| 최소 지원 | iOS 17+ | SwiftData 요구 |
 | 데이터 저장 | SwiftData | 로컬 영속화 |
 | 카피바라 렌더링 | SwiftUI Shape/Path | 코드 드로잉, 유전자 기반 변형 |
 | 햅틱 | UIKit (UIImpactFeedbackGenerator) | 터치 반응 |

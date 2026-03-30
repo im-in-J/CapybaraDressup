@@ -9,7 +9,7 @@
 - **언어**: Swift 5.9+
 - **UI**: SwiftUI (UIKit 사용 금지, 햅틱 등 필수 경우만 예외)
 - **데이터**: SwiftData (@Model)
-- **최소 타겟**: iOS 16.0
+- **최소 타겟**: iOS 17.0
 - **아키텍처**: MVVM (Model-View-ViewModel)
 
 ## 프로젝트 구조
@@ -77,3 +77,4 @@ xcodebuild -scheme CapybaraDressup -destination 'platform=iOS Simulator,name=iPh
 
 - `DESIGN.md` — 전체 설계 문서 (유전자 시스템, 화면 흐름, 교배 시스템 등)
 - `plan.md` — 개발 계획 (Phase별 태스크)
+- `skill.md` — iOS 게임 개발 기술 가이드 (성능, 드로잉, 제스처, 햅틱 등)
